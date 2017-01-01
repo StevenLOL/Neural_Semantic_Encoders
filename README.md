@@ -1,29 +1,32 @@
-# README #
+# Neural Semantic Encoders #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+This project contains Chainer implementation of [Neural Semantic Encoders](https://arxiv.org/abs/1607.04315), a memory-augmented neural network.
 
-### What is this repository for? ###
+Prerequisites
+-------------
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+- Python 2.7
+- [chainer](http://chainer.org/) (tested on chainer 1.12.0)
+- Other data utils: sklearn, pandas, numpy etc.
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+Usage
+-----
 
-### Contribution guidelines ###
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
+Results
+-------
 
-* Repo owner or admin
-* Other community or team contact
+
+
+
+Author
+------
+
+Tsendsuren Munkhdalai / [@tsendeemts](http://www.tsendeemts.com/)
+
+
+Other 3rd party implementations
+------
+* [Kera's NSE implementation by @pdasagi](https://github.com/pdasigi/neural-semantic-encoders)
