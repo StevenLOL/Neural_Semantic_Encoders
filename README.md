@@ -29,4 +29,4 @@ Tsendsuren Munkhdalai / [@tsendeemts](http://www.tsendeemts.com/)
 
 Other 3rd party implementations
 ------
-* [Kera's NSE implementation by @pdasigi](https://github.com/pdasigi/neural-semantic-encoders)
+* [Keras NSE implementation by @pdasigi](https://github.com/pdasigi/neural-semantic-encoders)
