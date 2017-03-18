@@ -1,5 +1,6 @@
 import math
 import sys
+sys.path.append('../')
 import time
 import copy
 import pandas as pd
