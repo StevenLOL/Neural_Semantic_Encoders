@@ -1,6 +1,7 @@
 # Neural Semantic Encoders #
 
 This project contains Chainer implementation of [Neural Semantic Encoders](https://arxiv.org/abs/1607.04315), a memory-augmented neural network.
+
 - Paper: [https://arxiv.org/abs/1607.04315](https://arxiv.org/abs/1607.04315)
 - Slides (pdf): [www.tsendeemts.com](http://www.tsendeemts.com/assets/NLP_MANNs.pdf)
 
